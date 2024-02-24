@@ -1,0 +1,37 @@
+*{
+   background-image: url(./bg-masthead.jpg);
+}
+.navbar {
+    background-color: transparent !important;
+}
+.content{
+    color: black;
+    font-size: xx-large;
+    padding: 650px;
+    padding-top: 275px;
+    font-weight: bold;
+    justify-content: center;
+    background-color: transparent !important;
+}
+.mb-1{
+    font-size: 4rem;
+    font-weight: bold;
+
+}
+.mb-5{
+    font-style: italic;
+    font-size: 1.17em;
+    padding-left: 15px ;
+}
+a.btn{
+    background-color: blue;
+    padding: 25px;
+    margin: 40px;
+    margin-bottom: 55px;
+  
+}
+a.btn:hover{
+    background-color: blue;
+    color: aliceblue;
+
+}
